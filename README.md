@@ -7,7 +7,7 @@
 **Unidade Curricular:** Aprendizagem Automática </br>
 **Docente:** Professor Doutor Luís Nunes </br>
 
-David Alexandre Viera Marques </br>
+David Alexandre Vieira Marques </br>
 Nº83213 davms@iscte-iul.pt
 
 Sandro Camilo Alpoim Ferreira </br>
