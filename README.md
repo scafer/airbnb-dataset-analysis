@@ -166,7 +166,7 @@ Através desta análise podemos constatar que:
 
 <div align="center">
 
-| **Total** | **Média** | **Desvio Padrão** | **Mínimo** | **25%** | **50%** | **75%** | **Máximo** |
+|| **Total** | **Média** | **Desvio Padrão** | **Mínimo** | **25%** | **50%** | **75%** | **Máximo** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | _ **reviews** _ | 96904 | 37,906 | 42,788 | 1 | 22 | 22 | 52 | 448 |
 | _ **overall\_statisfaction** _ | 96904 | 4,598 | 0,380 | 1 | 4,5 | 4,5 | 5 | 5 |
